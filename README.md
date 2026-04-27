@@ -77,7 +77,7 @@ Recon  →  Enumeration  →  Exploitation  →  Post-Exploitation  →  Documen
 
 **Offensive & Recon**
 
-`Nmap` · `Burp Suite` · `Metasploit` · `Gobuster` · `Nikto` · `Netcat` · `OSINT Techniques`
+`Nmap` · `Burp Suite` · `Metasploit` · `Gobuster` · `Nikto` · `Netcat` · `OSINT Techniques` a. `Nessus` . `John the Ripper` . `Nmap`
 
 **Defensive & Monitoring**
 
@@ -89,7 +89,7 @@ Recon  →  Enumeration  →  Exploitation  →  Post-Exploitation  →  Documen
 
 **Concepts**
 
-`OWASP Top 10` · `Privilege Escalation` · `Vulnerability Assessment` · `Risk Management` · `Security Governance` · `Threat Intelligence`
+`OWASP Top 10` · `Privilege Escalation` · `Vulnerability Assessment` · `Risk Management` · `Security Governance` · `Threat Intelligence` . `Mitre Att&ck`
 
 ---
 
