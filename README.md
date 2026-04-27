@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ahmed Javed
-### Cybersecurity Professional in Training
+### Junior Cybersecurity Professional
 
 *Information Security · Defensive Security · Offensive Security · Penetration Testing*
 
