@@ -5,10 +5,10 @@
 
 *Information Security · Defensive Security · Offensive Security · Penetration Testing*
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![ISC2](https://img.shields.io/badge/ISC2-CC%20Certified-006400?style=for-the-badge&logoColor=white)](https://isc2.org)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aahmedjaved84)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cf857-c81d-72a3-babe-93c6abcba88b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmed-javed-ajofficial)
+
 
 </div>
 
@@ -61,8 +61,8 @@ I am actively building foundational and hands-on knowledge in **network defense,
 
 I actively sharpen practical skills through CTF challenges and labs:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rooms%20Completed-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rooms%20Completed-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aahmedjaved84)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cf857-c81d-72a3-babe-93c6abcba88b)
 
 **My methodology:**
 ```
@@ -97,9 +97,9 @@ Recon  →  Enumeration  →  Exploitation  →  Post-Exploitation  →  Documen
 
 | Project | Description |
 |---|---|
-| 📝 [CTF Writeups](https://github.com/YOUR_USERNAME/ctf-writeups) | TryHackMe & HackTheBox walkthroughs with full methodology |
-| 🔍 [Project 2](https://github.com/YOUR_USERNAME/project2) | *(Add your project here)* |
-| 🛡️ [Project 3](https://github.com/YOUR_USERNAME/project3) | *(Add your project here)* |
+| 📝 [CTF Writeups](https://github.com/Ahmedjavedjutt/ctf-writeups) | TryHackMe & HackTheBox walkthroughs with full methodology |
+| 🔍 [Project 2](https://github.com/Ahmedjavedjutt/project2) | *(Add your project here)* |
+| 🛡️ [Project 3](https://github.com/Ahmedjavedjutt/project3) | *(Add your project here)* |
 
 ---
 
@@ -107,9 +107,9 @@ Recon  →  Enumeration  →  Exploitation  →  Post-Exploitation  →  Documen
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedjavedjutt&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedjavedjutt&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
 </div>
 
